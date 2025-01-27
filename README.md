@@ -31,7 +31,8 @@ This repository contains two Jupyter notebooks demonstrating different Particle 
 - Key Features:
   - Visualizes final swarm positions on 2D contours, illustrating how each topology converges.
   - Compares convergence speed, final costs, and swarm distribution.
- ![image](https://github.com/user-attachments/assets/6fe88732-1c8d-4f64-9198-2719fef353f2)
+![image](https://github.com/user-attachments/assets/c49dfe98-1b06-4e05-bd6b-b7e6ae5ea0cf)
+
 
 - Usage:
   1. Open PSO2.ipynb in Jupyter.
